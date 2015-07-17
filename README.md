@@ -5,8 +5,9 @@
 *PIL*
 
 Note for install PIL on osx:
-ln -s /usr/local/include/freetype2 /usr/local/include/freetype
-pip install PIL --allow-external PIL --allow-unverified PIL
+
+* ln -s /usr/local/include/freetype2 /usr/local/include/freetype
+* pip install PIL --allow-external PIL --allow-unverified PIL
 
 ## using:
 
